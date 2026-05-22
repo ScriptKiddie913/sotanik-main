@@ -220,3 +220,11 @@ html { scroll-behavior: smooth; }
     animation: none !important;
   }
 }
+
+#lovable-badge, .lovable-badge, [class*="lovable"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
