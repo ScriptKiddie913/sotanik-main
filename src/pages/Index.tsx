@@ -12,7 +12,7 @@ const Index = () => {
         <title>SoTaNik AI — Global Threat Intelligence Operations Center</title>
         <meta name="description" content="SoTaNik AI: AI-powered OSINT, dark web monitoring, and automated penetration testing. Defense-grade threat intelligence platform." />
       </Helmet>
-
+<meta name="google-site-verification" content="zooiXu1jymVJAR7f833OrV30l9QO4uSo-WqcCsbP77Y" />
       <main className="min-h-screen relative">
         <Navbar />
         <div className="pt-[56px]">
