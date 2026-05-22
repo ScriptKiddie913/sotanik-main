@@ -12,6 +12,7 @@ import Services from "./pages/Services";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Labs from "./pages/Labs";
+import Sitemap from "./pages/Sitemap";
 import MatrixBackground from "./components/MatrixBackground";
 import ScanlineOverlay from "./components/ScanlineOverlay";
 import ConstellationField from "./components/ConstellationField";
@@ -36,6 +37,7 @@ const App = () => (
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/labs" element={<Labs />} />
+            <Route path="/sitemap" element={<Sitemap />} />
             <Route path="/a3dm1necho956" element={<AdminLogin />} />
             <Route path="/a3dm1necho956/dashboard" element={<AdminDashboard />} />
             <Route path="*" element={<NotFound />} />
