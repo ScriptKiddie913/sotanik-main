@@ -108,7 +108,7 @@ const HeroSection = () => {
             <Button
               variant="cyber"
               size="xl"
-              onClick={() => window.location.href = 'https://osinthub.sotanikai.online'}
+              onClick={() => window.location.href = 'https://osinthub.sotanikai.in'}
             >
               <Terminal className="w-5 h-5" />
               Explore Services
